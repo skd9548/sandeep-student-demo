@@ -1,7 +1,9 @@
 # sandeep-student-demo
+
 this is my first repo
 <br>
-Author-sandeep dixit
+Author-sandeep (student)
+
 <!doctype html>
 <html>
   <head>
@@ -22,5 +24,6 @@ Author-sandeep dixit
         font-size: 40px;
       }
     </style>
+
   </head>
   <body>
